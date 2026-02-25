@@ -1,0 +1,17 @@
+{
+  "name": "MJAY Travels & Tours",
+  "short_name": "MJAY",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#1459b8",
+  "description": "Plan and manage your travel easily with MJAY Travels & Tours.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
